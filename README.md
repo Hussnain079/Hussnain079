@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Hussnain Mohsin</h1>
-<h3 align="center">A passionate frontend (React & Next Js) developer from Pakistan with 3 years of experience</h3>
+<h3 align="center">A passionate frontend React Js developer from Pakistan with 3 years of experience</h3>
 
 - 🔭 I’m currently working on **Health Care Product Named Remote Patient Monitoring | RPD | RPM**
 
 - 🌱 I’m currently learning **Node-Js, Express-Js, MongoDB**
 
-- 👯 I’m looking to collaborate on **React-Js & Next-Js Web Development Projects**
+- 👯 I’m looking to collaborate on **React-Js Web Development Projects**
 
 - 🤝 I’m looking for help with **Bug Fixes, React State Management, React Hooks Implementation, Optimizing Application Performance, Code Review and Feedback**
 
-- 💬 Ask me about **Frontend, Web Development, React-Js, Next-Js**
+- 💬 Ask me about **Frontend, Web Development, React-Js**
 
 - 📫 How to reach me **syedhussnain095@gmail.com**
 
