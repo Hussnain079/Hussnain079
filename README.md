@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hussnain Mohsin</h1>
-<h3 align="center">A passionate frontend React Js developer from Pakistan with more than 3 years of experience</h3>
+<h3 align="center">A passionate frontend React Js developer with more than 3 years of experience</h3>
 
 - 🔭 I’m currently working on **Health Care Product Named Remote Patient Monitoring | RPD | RPM**
 
