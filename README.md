@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **Frontend, Web Development, React-Js**
 
-- 📫 How to reach me **syedhussnain095@gmail.com**
-
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
