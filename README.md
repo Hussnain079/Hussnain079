@@ -28,7 +28,7 @@ Feel free to connect with me via:
 
 Email: <img src="https://img.icons8.com/color/48/000000/gmail.png"/> Email
 LinkedIn: <img src="https://img.icons8.com/color/48/000000/linkedin.png"/> LinkedIn
-Personal Website: <img src="https://img.icons8.com/color/48/000000/domain.png"/> Personal Website
+Personal Website: <img src="https://hussnaindev.netlify.app/"/> Personal Website
 Let's Connect!
 I'm always open to collaborations and discussions. If you have any questions, suggestions, or project ideas, don't hesitate to reach out. Let's build something amazing together!
 
