@@ -9,7 +9,7 @@ I'm Hussnain Mohsin, a passionate frontend developer with over three years of ex
 I'm dedicated to creating engaging user experiences and resolving technical challenges. My expertise spans across various domains including healthcare, e-commerce, and communication apps.
 
 ## 🛠️ Skills
-Frontend Development: React.js, HTML5, CSS3, JavaScript, Typescript
+Frontend Development: React-js, HTML5, CSS3, JavaScript, Typescript
 
 Performance Optimization
 
@@ -26,7 +26,7 @@ Third-party Integration
 
 ## 📁 Projects:
 
-**Telehealth Solution:** 
+**Chat Application Solution:** 
 Developed a real-time chat application for telehealth consultations, ensuring seamless communication between users.
 
 **E-commerce Platform:** 
