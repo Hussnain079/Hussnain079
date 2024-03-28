@@ -8,7 +8,7 @@ I'm Hussnain Mohsin, a passionate frontend developer with over three years of ex
 ## 🚀 About Me:
 I'm dedicated to creating engaging user experiences and resolving technical challenges. My expertise spans across various domains including healthcare, e-commerce, and communication apps.
 
-## 🛠️ Skill's:
+## 🛠️ Skills:
 
 Frontend Development: React-js, HTML5, CSS3, JavaScript, Typescript
 
