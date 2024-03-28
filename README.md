@@ -8,7 +8,8 @@ I'm Hussnain Mohsin, a passionate frontend developer with over three years of ex
 ## 🚀 About Me:
 I'm dedicated to creating engaging user experiences and resolving technical challenges. My expertise spans across various domains including healthcare, e-commerce, and communication apps.
 
-## 🛠️ Skills
+## 🛠️ Skill's:
+
 Frontend Development: React-js, HTML5, CSS3, JavaScript, Typescript
 
 Performance Optimization
@@ -54,14 +55,14 @@ Developed a YouTube video downloader tool, allowing users to download videos fro
 
 **Project Structure for Big and Complex
 Applications:** Designed and implemented scalable project structures for large and complex web applications, ensuring maintainability, scalability, and ease of collaboration among team members.
-## 🔗 Links
+## 🔗 Links:
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://hussnaindev.netlify.app/)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussnain-mohsin-368497)
 
 
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect:
 
 I'm always open to collaborations and discussions. If you have any questions, suggestions, or project ideas, don't hesitate to reach out. Let's build something amazing together!
 
