@@ -1,28 +1,37 @@
-<h1 align="center">Hi 👋, I'm Hussnain Mohsin</h1>
-<h3 align="center">A passionate frontend React Js developer with more than 3 years of experience</h3>
+<h1 align="center">Hi 👋, I'm Hussnain Mohsin - Frontend React.js Developer</h1>
+Welcome to my GitHub repository! I'm Hussnain Mohsin, a passionate frontend developer with over three years of experience specializing in React.js. I excel in crafting intuitive user interfaces, optimizing performance, and integrating third-party services to deliver seamless web applications.
 
-- 🔭 I’m currently working on **Health Care Product Named Remote Patient Monitoring | RPD | RPM**
+About Me:
+I'm dedicated to creating engaging user experiences and resolving technical challenges. My expertise spans across various domains including healthcare, e-commerce, and communication apps.
 
-- 🌱 I’m currently learning **Node-Js, Express-Js, MongoDB**
+Skills:
+Frontend Development: React.js, HTML5, CSS3, JavaScript
+Performance Optimization
+Bug Resolution
+Code Review
+Dynamic Content Listing
+UI/UX Design
+Third-party Integration: Stripe, PayPal
+Projects Highlights:
+Telehealth Solution: Developed a real-time chat application for telehealth consultations, ensuring seamless communication between healthcare professionals and patients.
+E-commerce Platform: Contributed to the development of an e-commerce platform with optimized performance and enhanced user experience.
+Payment Integration: Implemented secure payment gateways like Stripe and PayPal, enabling smooth transactions within web applications.
+Dynamic Content Listing: Designed and implemented dynamic listing functionalities to display data dynamically based on user input and preferences.
+One Form for Add and Update Data: Created a single form to handle both adding and updating data within web applications, streamlining the user experience.
+UI Design: Utilized modern UI/UX design principles to create visually appealing and intuitive interfaces for web applications, enhancing user engagement and satisfaction.
+Email Sending Without Involving Server: Implemented client-side email sending functionalities without relying on server-side processing, ensuring efficient communication within web applications.
+Google reCAPTCHA Integration: Integrated Google reCAPTCHA to enhance security and prevent spam submissions in web forms, ensuring data integrity and user verification.
+YouTube Video Downloader: Developed a YouTube video downloader tool, allowing users to download videos from YouTube for offline viewing.
+Project Structure for Big and Complex Applications: Designed and implemented scalable project structures for large and complex web applications, ensuring maintainability, scalability, and ease of collaboration among team members.
+How to Reach Me:
+Feel free to connect with me via:
 
-- 👯 I’m looking to collaborate on **React-Js Web Development Projects**
+Email: <img src="https://img.icons8.com/color/48/000000/gmail.png"/> Email
+LinkedIn: <img src="https://img.icons8.com/color/48/000000/linkedin.png"/> LinkedIn
+Personal Website: <img src="https://img.icons8.com/color/48/000000/domain.png"/> Personal Website
+Let's Connect!
+I'm always open to collaborations and discussions. If you have any questions, suggestions, or project ideas, don't hesitate to reach out. Let's build something amazing together!
 
-- 🤝 I’m looking for help with **Bug Fixes, React State Management, React Hooks Implementation, Optimizing Application Performance, Code Review and Feedback**
-
-- 💬 Ask me about **Frontend, Web Development, React-Js**
-
-- ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hus43009278syed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hus43009278syed" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hussnain-mohsin-36849719b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussnain-mohsin-36849719b" height="30" width="40" /></a>
-<a href="https://fb.com/syed.h.pirzada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="syed.h.pirzada" height="30" width="40" /></a>
-<a href="https://instagram.com/syed_hussnain_pirzada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syed_hussnain_pirzada" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@nextlevelcoding-ik4td" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@nextlevelcoding-ik4td" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+Feel free to customize the content according to your preferences and include any additional information you find relevant.
 
 
